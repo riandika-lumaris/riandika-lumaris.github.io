@@ -9,9 +9,6 @@ import Helmet from 'react-helmet';
 ReactDOM.render(
   <React.StrictMode>
     <Helmet>
-      <title>Riandika Lumaris</title>
-      <meta name="description" content="An experienced web and mobile app developer. Highly skilled in PHP, JavaScript, Node.js, React.js, .NET Core, Universal Windows Platform, and more." />
-      <meta name="robots" content="index,follow" />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"></link>
     </Helmet>
     <App />
