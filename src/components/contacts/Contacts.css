@@ -1,0 +1,15 @@
+a {
+  text-decoration: none;
+  word-wrap: break-word;
+}
+
+.contact-item {
+  color: white;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.contact-item:hover {
+  color: black;
+  background: white;
+}
