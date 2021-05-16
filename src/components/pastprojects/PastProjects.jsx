@@ -18,7 +18,7 @@ function PastProjects() {
         <Row>
           <PastProjectsItem title="XSpot" imageSrc="xspot/1.png" url="https://www.microsoft.com/p/xspot/9n8hp8kwhf8q">
             <p>
-              This is the first consumer app I have written. It lets you download images used in Windows Spotlight feature on Wiindows 10. 
+              This is the first consumer app I have written. It lets you download images used in Windows Spotlight feature on Windows 10. 
               You can also share it or set it as your dekstop background. 
               This app runs on Windows 10 using technology called Universal Windows Platform (UWP).
             </p>
